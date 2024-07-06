@@ -5,7 +5,7 @@ description = "Streamlit MPA Template"
 authors = ["reshdesu <mayuresh.kinare@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.12"
+python = ">=3.11"
 altair = "^5.3.0"
 docker = "^7.1.0"
 loguru = "^0.7.2"
